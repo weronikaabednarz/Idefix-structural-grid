@@ -16,8 +16,8 @@ Start picture:
 
 Structured grid for an image:
 
-![1](https://github.com/weronikaabednarz/Idefix-structural-grid/blob/main/images/piesek2.jpg)
+![2](https://github.com/weronikaabednarz/Idefix-structural-grid/blob/main/images/piesek3.jpg)
 
 Untructured grid for an image:
 
-![1](https://github.com/weronikaabednarz/Idefix-structural-grid/blob/main/images/piesek3.png)
+![3](https://github.com/weronikaabednarz/Idefix-structural-grid/blob/main/images/piesek2.jpg)

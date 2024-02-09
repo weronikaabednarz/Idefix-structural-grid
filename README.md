@@ -1,0 +1,3 @@
+# Idefix-structural grid
+
+abcd

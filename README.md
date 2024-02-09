@@ -11,4 +11,13 @@ Technologies used in the project: **Python** with libraries:
 - PIL - a module for image handling
 
 Start picture:
+
 ![1](https://github.com/weronikaabednarz/Idefix-structural-grid/blob/main/images/piesek.png)
+
+Structured grid for an image:
+
+![1](https://github.com/weronikaabednarz/Idefix-structural-grid/blob/main/images/piesek2.jpg)
+
+Untructured grid for an image:
+
+![1](https://github.com/weronikaabednarz/Idefix-structural-grid/blob/main/images/piesek3.png)

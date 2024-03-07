@@ -1,5 +1,5 @@
 # Idefix structural grid
-
+ 
 A program for generating a structured and unstructured grid for an image.
 - Loading an image file with the extension .png
 - Saving the generated grid in the form of points and elements to a .txt file

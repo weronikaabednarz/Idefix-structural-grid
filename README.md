@@ -3,7 +3,7 @@
 A program for generating a structured and unstructured grid for an image.
 - Loading an image file with the extension .png
 - Saving the generated grid in the form of points and elements to a .txt file
- 
+
 Technologies used in the project: **Python** with libraries:
 - math - module containing mathematical functions and constants
 - numpy - a library for scientific calculations, operations on multidimensional arrays and matrices
